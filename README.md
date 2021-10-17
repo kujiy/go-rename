@@ -23,3 +23,7 @@ Convert to
 |- dir2-001.jpg
 |- dir2-002.jpg
 ```
+
+
+# python version
+https://gist.github.com/kujiy/ff7cd0bb63049dfebf8e075ff224a9f6
